@@ -1,0 +1,11 @@
+.footer__column_content_social {
+  min-width: 120px;
+  max-width: 140px;
+  width: 10%;
+  display: flex;
+  flex-basis: auto;
+  flex-direction: column;
+  justify-content: start;
+  box-sizing: content-box;
+  margin: 0;
+}

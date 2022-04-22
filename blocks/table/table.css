@@ -1,0 +1,10 @@
+.table {
+  text-align: left;
+  display: flex;
+  flex-flow: row wrap;
+  width: 1100px;
+  margin: 0;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+}

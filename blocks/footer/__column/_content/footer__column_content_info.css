@@ -1,0 +1,10 @@
+.footer__column_content_info {
+  min-width: 130px;
+  width: 10%;
+  display: flex;
+  flex-basis: auto;
+  flex-direction: column;
+  justify-content: start;
+  box-sizing: content-box;
+  margin: 0;
+}
